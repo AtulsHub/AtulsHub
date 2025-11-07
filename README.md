@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Hacktoberfest 2025 Achievement Batches 🏆
+
 [![An image of @atulshub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atulshub)](https://holopin.io/@atulshub)
 
 <!--
