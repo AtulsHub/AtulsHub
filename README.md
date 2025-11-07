@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-## Hacktoberfest 2025 Achievement Batches 🏆
+### 🎉 Hacktoberfest 2025 Achievement Badges 🏆
 
-[![An image of @atulshub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atulshub)](https://holopin.io/@atulshub)
+[![Holopin Badges](https://holopin.me/atulshub)](https://holopin.io/@atulshub)
+
+---
 
 <!--
-**AtulsHub/AtulsHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AtulsHub/AtulsHub** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to help you expand this profile:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
